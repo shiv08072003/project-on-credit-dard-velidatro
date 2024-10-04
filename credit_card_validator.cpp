@@ -79,5 +79,3 @@ long int number = 5196081888500645L;
 cout << number << " is " << (isValid(number) ? "valid" : "invalid");
 return 0;
 }
-
-// This code is contributed by yuvraj_chandra
